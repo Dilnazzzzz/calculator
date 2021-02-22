@@ -1,0 +1,67 @@
+html {
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: rgb(168, 233, 244);
+    background: -moz-linear-gradient(90deg, rgb(168, 233, 244) 0%, rgb(232, 106, 243) 100%);
+    background: -webkit-linear-gradient(90deg, rgb(168, 233, 244) 0%, rgb(232, 106, 243) 100%);
+    background: linear-gradient(90deg, rgb(168, 233, 244) 0%, rgb(232, 106, 243) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4a8c8",endColorstr="#006df6",GradientType=1);
+}
+
+h1 {
+    font-family:  'Akaya Telivigala', cursive;
+    color: rgb(195, 81, 206)
+}
+
+.education {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 30px;
+    color:  rgb(112, 189, 202);
+}
+
+.capital {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 30px;
+    color:  rgb(112, 189, 202);
+}
+
+.skills {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 30px;
+    color:  rgb(112, 189, 202);
+}
+
+.age {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 30px;
+    color:  rgb(112, 189, 202);
+}
+
+.reputation {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 30px;
+    color:  rgb(112, 189, 202);
+}
+
+.p {
+    font-family: 'Akaya Telivigala', cursive;
+    color: rgb(112, 189, 202);
+    font-size: 20px;
+}
+
+.container {
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+hr {
+    margin-left: 0;
+    width: 370px;
+    height: 2.5px;
+    background: rgb(244,168,200);
+}
